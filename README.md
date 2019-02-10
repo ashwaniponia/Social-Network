@@ -34,6 +34,8 @@ Algorithms:
 
 4.Graph clustering 
 
+5.0/1 Knapsack Problem
+
   
 
 Tools and language Used: 
