@@ -50,9 +50,9 @@ public:
 
 int Vertex::uniqueid=0;
 
-void Vertex::update_data(string n,coordinates l,string ln){//Function to update the data items of the Vertex
+void Vertex::update_data(int ll,int pp,string n,int a,string n,coordinates l,string ln){//Function to update the data items of the Vertex
    	level=ll;
-    age=a;
+        age=a;
 	position=pp;
    	name=n;     
    	loc=l;
