@@ -1,4 +1,0 @@
-id Name Age loc City 
-1 Archit 20 3 Agra 
-2 Ashish 23 2 Ajmer 
-3 Gaurav 28 1 Ahmedabad  \0
