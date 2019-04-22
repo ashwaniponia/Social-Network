@@ -40,4 +40,4 @@ Algorithms:
 
 Tools and language Used: 
 
-C++, Python and Graph Analysis tools.
+C++
